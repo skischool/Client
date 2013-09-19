@@ -11,8 +11,7 @@ C:\Git\SkiSchool\Schedule\ScheduleAPI\DistributedServices.Entitiesd\bin\Debug\Di
 C:\Git\SkiSchool\Schedule\ScheduleAPI\DistributedServices.Entitiesd\bin\Debug\DistributedServices.Entities.pdb
 C:\Git\SkiSchool\Schedule\ScheduleAPI\DistributedServices.Entitiesd\obj\Debug\DistributedServices.Entities.dll
 C:\Git\SkiSchool\Schedule\ScheduleAPI\DistributedServices.Entitiesd\obj\Debug\DistributedServices.Entities.pdb
-C:\Git\Shared\Client\ClientAPI\DistributedServices.Entitiesd\bin\Debug\DistributedServices.Entities.dll
-C:\Git\Shared\Client\ClientAPI\DistributedServices.Entitiesd\bin\Debug\DistributedServices.Entities.pdb
-C:\Git\Shared\Client\ClientAPI\DistributedServices.Entitiesd\obj\Debug\DistributedServices.Entities.csprojResolveAssemblyReference.cache
-C:\Git\Shared\Client\ClientAPI\DistributedServices.Entitiesd\obj\Debug\DistributedServices.Entities.dll
-C:\Git\Shared\Client\ClientAPI\DistributedServices.Entitiesd\obj\Debug\DistributedServices.Entities.pdb
+C:\Git\Shared\Client\ClientApi\DistributedServices.Entitiesd\bin\Debug\DistributedServices.Entities.dll
+C:\Git\Shared\Client\ClientApi\DistributedServices.Entitiesd\bin\Debug\DistributedServices.Entities.pdb
+C:\Git\Shared\Client\ClientApi\DistributedServices.Entitiesd\obj\Debug\DistributedServices.Entities.dll
+C:\Git\Shared\Client\ClientApi\DistributedServices.Entitiesd\obj\Debug\DistributedServices.Entities.pdb
